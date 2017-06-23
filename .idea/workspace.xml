@@ -35,6 +35,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="REBASE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -198,12 +199,12 @@
       <updated>1498212332843</updated>
       <workItem from="1498212334156" duration="132000" />
       <workItem from="1498213066907" duration="296000" />
-      <workItem from="1498213559240" duration="152000" />
+      <workItem from="1498213559240" duration="304000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="580000" />
+    <option name="totallyTimeSpent" value="732000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
